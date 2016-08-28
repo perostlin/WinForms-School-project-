@@ -1,0 +1,20 @@
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\bin\Debug\Personalhanteringssystem.exe.config
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\bin\Debug\Personalhanteringssystem.exe
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\bin\Debug\Personalhanteringssystem.pdb
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.csprojResolveAssemblyReference.cache
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.EmployeeManagement.resources
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.Properties.Resources.resources
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.csproj.GenerateResource.Cache
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.exe
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.pdb
+C:\Users\Per\Desktop\.NET Projekt\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.FAddEmployee.resources
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\bin\Debug\Personalhanteringssystem.exe.config
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.exe
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.pdb
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\bin\Debug\Personalhanteringssystem.exe
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\bin\Debug\Personalhanteringssystem.pdb
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.csprojResolveAssemblyReference.cache
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.FAddEmployee.resources
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.EmployeeManagement.resources
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.Properties.Resources.resources
+C:\Users\Per\Desktop\Projektarbete\WinForms\Personalhanteringssystem\Personalhanteringssystem\obj\Debug\Personalhanteringssystem.csproj.GenerateResource.Cache
